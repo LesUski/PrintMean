@@ -10,6 +10,8 @@ public class Main {
             System.out.println("Mean of -1, -11, 24, 2: " + meanCalc(-1, -11, 24, 2));
 
             System.out.println(" ");
+
+            uyhghgvkhjb
     }
 
     public static String meanCalc(int a, int b, int c, int d){
